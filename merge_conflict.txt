@@ -1,2 +1,4 @@
+this is some content to mess with
+And I addes more 
 New content
 to create merge conflict
